@@ -1,0 +1,1 @@
+# videoHighlightExtraction_RippleAI
